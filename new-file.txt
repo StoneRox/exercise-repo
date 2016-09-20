@@ -1,8 +1,5 @@
 Content...
-<<<<<<< HEAD
 This project will contain...
 Repository for exercises.
 Edited again in the master branch..
-=======
-Test 2...
->>>>>>> develop
+
